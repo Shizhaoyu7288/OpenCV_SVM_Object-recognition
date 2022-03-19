@@ -1,0 +1,21 @@
+﻿生成启动时间为 2022/3/19 16:17:51。
+     1>项目“E:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\6_9_train\6_9_train.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\software\VS2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\software\opencv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\software\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\software\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\software\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\6_9_train\main.cpp(54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\6_9_train\main.cpp(94): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+     1>e:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\6_9_train\main.cpp(77): warning C4101: “file”: 未引用的局部变量
+     1>e:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\6_9_train\main.cpp(147): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'clock_t'
+       Link:
+         D:\software\VS2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\x64\Debug\6_9_train.exe" /INCREMENTAL /NOLOGO opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\x64\Debug\6_9_train.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\x64\Debug\6_9_train.lib" /MACHINE:X64 x64\Debug\main.obj
+         6_9_train.vcxproj -> E:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\x64\Debug\6_9_train.exe
+     1>已完成生成项目“E:\研电赛\哈尔滨工程大学-我说的队-基于图像处理的物体识别与分类系统\工程文档\模型训练\6_9_train\6_9_train.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.15
